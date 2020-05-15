@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Source/CesarCypher.cs">
+    <Files>
+      <File FileName="Source/CesarCypher.cs" Line="13" Column="17" />
+      <File FileName="Source/ICrypt.cs" Line="7" Column="2" />
+      <File FileName="Source/IDecrypt.cs" Line="1" Column="1" />
+      <File FileName="Source.Test/CesarCypherTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Challenge" expanded="True">
+            <Node name="Source" expanded="True">
+              <Node name="CesarCypher.cs" selected="True" />
+            </Node>
+            <Node name="Source.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Challenge" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
